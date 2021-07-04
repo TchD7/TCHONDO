@@ -256,7 +256,7 @@ figure {
           padding: 4px; }
 #colorlib-aside .colorlib-footer h3 a
 {
-    color: #FF722C;
+    
     font-size: 18px;
 }
 #rcorners2 {
@@ -410,7 +410,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background-color: #F26027;
+    background-color: #f9bf3f;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
