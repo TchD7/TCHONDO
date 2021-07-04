@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-###### https://culyssander.github.io
+###### https://https://tchondo-tchosso.netlify.app/
 
 ### About me
 * Competitive Programming Page
